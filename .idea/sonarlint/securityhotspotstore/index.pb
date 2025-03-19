@@ -7,3 +7,7 @@ R
 "contracts/credit-distribution.clar,8/b/8bf61433e24d15740c9f0474a446c0b9e7ef7ecd
 Q
 !tests/credit-distribution.test.ts,b/1/b1abc5e529991635ba52c24be7b66e7ebc5bf9a5
+Y
+)contracts/energy-production-tracking.clar,1/c/1c43840d5898626c4c47bb285cadf7f33ff45ac1
+X
+(tests/energy-production-tracking.test.ts,4/0/4051a225a05c77c17add756c80b5a69925ec1d82
